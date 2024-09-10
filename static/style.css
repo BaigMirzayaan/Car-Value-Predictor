@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#body {
+    background-color: #1F2F57; 
+    color: #28527d; 
+}
+#cardheader h1{
+    display: inline;
+    font-size: 35px;
+}
+#predicted_price{
+    text-align: center;
+}
+.mt-50{
+	margin-top: 50px;
+}
+#canvas{
+    border: 2px solid black;
+}
+
+#logo{
+    height: 180px;
+}
+
